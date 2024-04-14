@@ -1,7 +1,8 @@
 i = 5
-while i > 0:
-    print("hello")
-    i-=1
+for i in range(i)
+    print(f"{i} hello world")
     
+   
+
 
     
